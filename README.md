@@ -1,5 +1,5 @@
 # PANACHE - Physics-based artificial neural network framework for adsorption and chromatography emulation
-The python code TrainPANACHE trains the physics-based neural network model for constituent steps in cyclic adsorption processes. The code follows the methodology proposed in *Physics-based neural networks for simulation and synthesis of cyclic adsorption processes*. As an example, relevant training data is provided here to train blowdown step neural network using this code. 
+The python code ```TrainPANACHE.py``` trains the physics-based neural network model for constituent steps in cyclic adsorption processes. The code follows the methodology proposed in *Physics-based neural networks for simulation and synthesis of cyclic adsorption processes*. As an example, relevant training data is provided here to train blowdown step neural network using this code. 
 
 ## FILE LIST
 1. ```TrainPANACHE.py```: Trains physics-based neural networks for constituent steps.
