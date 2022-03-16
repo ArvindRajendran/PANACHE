@@ -30,8 +30,9 @@ git clone https://github.com/ArvindRajendran/PANACHE.git
 @article{Subraveti2022,
 title = {Physics-based neural networks for simulation and synthesis of cyclic adsorption processes},
 author = {Sai Gokul Subraveti and Zukui Li and Vinay Prasad and Arvind Rajendran},
-journal = {ChemRxiv preprint},
+journal = {Industrial & Engineering Chemistry Research},
 year = {2022},
+doi = {10.1021/acs.iecr.1c04731}
 }
 ```
 
